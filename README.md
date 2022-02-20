@@ -1,5 +1,5 @@
 ### Hi there Im Bilal 👋
-- 🌱 I’m currently learning Java,Python,Javascript
+- 🌱 I’m currently learning Java,Python
 - 📫 How to reach me: clavuza80@gmail.com 
 - 🥅Student 
 
