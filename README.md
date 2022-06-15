@@ -7,6 +7,15 @@
 
 - 🧠 I’m currently learning Spring Boot
 
+<br />
+
+<details >
+<summary> 💡 Github Stats</summary>
+
+<p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ozantekin&&show_icons=true&count_private=true&include_all_commits=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=bigci10"/></p>
+  
 <!--
 **bigci10/bigci10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
