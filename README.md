@@ -1,4 +1,4 @@
-### Hi there Im Bilal 👋
+<h1 align="center"> Hi there 👋, I'm Bilal. </h1>
 
 <p align="center"> Jr.Back-End Developer </p>
 
