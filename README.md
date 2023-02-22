@@ -7,6 +7,7 @@
 
 - 🧠 I’m currently learning Spring Boot
 
+<a href=#><img src="contributions.svg"></a>
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +27,7 @@
 Here are some ideas to get you started:
 
 -
-- 📫 How to reach me: clavuza80@gmail.com 
+- 📫 How to reach me: m.bilaligci@gmail.com 
 - 🥅Student 
 
 -->
